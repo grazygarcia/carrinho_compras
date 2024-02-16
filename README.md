@@ -48,5 +48,5 @@ Visualize os itens no seu carrinho e se necessário,limpe os itens clicando em l
 
 ## 🖼️ Tela Inicial : 
 
-![image](https://github.com/betafontes/personal-portfolio/assets/70981960/9d008f19-e224-486e-a516-d058ceabec57)
+![image](https://github.com/grazygarcia/carrinho_compras/blob/main/assets/tela_inicial.png)
 
